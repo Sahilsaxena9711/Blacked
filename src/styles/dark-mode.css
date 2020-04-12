@@ -1,0 +1,19 @@
+body.dark{
+    background-color: #282b34;
+    color: #fff;
+}
+
+body.dark *{
+    background-color: #282b34;
+    color: #fff;
+}
+
+body.light {
+    background-color: #fff;
+    color: #282b34;
+}
+
+body.light *{
+    background-color: #fff;
+    color: #282b34;
+}
